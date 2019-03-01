@@ -1,10 +1,13 @@
 {
     "editor.mouseWheelZoom": true,
+    "editor.rulers": [120],
     "window.zoomLevel": 0,
     "files.exclude": {
+        "*.pyc": true,
         "**/__pycache__": true,
     },
     "files.watcherExclude": {
+        "*.pyc": true,
         "**/__pycache__": true
     },
     "search.exclude": {
@@ -16,5 +19,6 @@
         "editor.insertSpaces": true,
         "editor.tabSize": 4,
         "editor.detectIndentation": false,
-    }
+    },
+    "python.linting.flake8Enabled": true
 }
