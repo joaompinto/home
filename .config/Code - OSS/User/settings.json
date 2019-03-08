@@ -20,5 +20,10 @@
         "editor.tabSize": 4,
         "editor.detectIndentation": false,
     },
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.detectIndentation": false,
+    },
     "python.linting.flake8Enabled": true
 }
