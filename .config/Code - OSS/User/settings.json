@@ -26,5 +26,6 @@
         "editor.detectIndentation": false,
     },
     "python.linting.flake8Enabled": true,
-    "workbench.colorTheme": "Atom Material Theme"
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "material-icon-theme"
 }
